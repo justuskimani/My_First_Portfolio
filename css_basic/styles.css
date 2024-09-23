@@ -11,3 +11,8 @@ main {
     flex-grow: 1; /* Allow the main content to grow and take up remaining space */
     flex-direction: row; /* Optional: arrange child elements in a row */
 }
+main {
+    flex: auto; /* allow main to grow and take the remaining space*/
+    padding: 20px;
+    background color: #fofofo;
+}
