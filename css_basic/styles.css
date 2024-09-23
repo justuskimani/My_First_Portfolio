@@ -16,3 +16,11 @@ main {
     padding: 20px;
     background color: #fofofo;
 }
+article {
+    flex: 2
+    overflow-y: auto
+}
+aside{
+    flex:1
+    overflow-y: auto
+}
